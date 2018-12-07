@@ -1,0 +1,9 @@
+{
+  "python.pythonPath": "/anaconda3/bin/python",
+  "python.linting.pylintArgs": [
+    "--extension-pkg-whitelist=cv2",
+    "--indent-string=\"  \"",
+    "--disable=C0111, C0301, C0103, C0330"
+  ],
+  "files.trimTrailingWhitespace": true
+}
