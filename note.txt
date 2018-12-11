@@ -1,2 +1,4 @@
-install tensorflow (python 3.7): pip install --upgrade https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-0.12.0-py3-none-any.whl
-install tensorflow (python 3.6): pip install tensorflow
+python3 -m pip install --upgrade https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-1.12.0-py3-none-any.whl
+python -m pip install --upgrade https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-1.12.0-py3-none-any.whl
+
+Linearly combine existing models to create a new model that is better qualify our data is the core of complex neural network
