@@ -2,3 +2,7 @@ python3 -m pip install --upgrade https://storage.googleapis.com/tensorflow/mac/c
 python -m pip install --upgrade https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-1.12.0-py3-none-any.whl
 
 Linearly combine existing models to create a new model that is better qualify our data is the core of complex neural network
+
+install pydotplus: pip install pydotplus
+
+install graphviz: brew install graphviz

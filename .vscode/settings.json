@@ -5,5 +5,6 @@
     "--indent-string=\"  \"",
     "--disable=C0111, C0301, C0103, C0330"
   ],
-  "files.trimTrailingWhitespace": true
+  "files.trimTrailingWhitespace": true,
+  "git.ignoreLimitWarning": true
 }
